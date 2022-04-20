@@ -2,7 +2,7 @@
 
 Dataware-tools are tools for researchers that enrich the value of data.
 
-![](overview_v2.png)
+![](https://raw.githubusercontent.com/dataware-tools/.github/main/profile/overview_v2.png)
 
 The goal of this project is to create tools for a framework to achieve the following things:
 
